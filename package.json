@@ -14,7 +14,19 @@
     "vite": "^8.3.6"
   },
   "dependencies": {
-    "@fontsource/montserrat": "^5.3.0",
-    "uninstall": "^0.0.0"
-  }
+    "@fontsource/montserrat": "^5.3.0"
+  },
+  "description": "Restoration of a website featuring serial numbers for protective glass (REDline)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anddx/redline-glasses.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anddx/redline-glasses/issues"
+  },
+  "homepage": "https://github.com/anddx/redline-glasses#readme"
 }
